@@ -5,7 +5,7 @@ using UnityEngine;
 public class SpreaderMovement : MonoBehaviour
 {
     public Transform player;
-    public float moveSpeed ;
+    public float moveSpeed=5f ;
     private Rigidbody2D rb;
     private Vector2 movement;
     // Start is called before the first frame update
@@ -23,11 +23,14 @@ public class SpreaderMovement : MonoBehaviour
         direction.Normalize();
         movement=direction;
     }
+    private void OnCollisionEnter2D(Collision2D col) {
+        Debug.Log(col.gameObject.name);
+    }
+    
     private void FixedUpdate() {
         MoveSpreader(movement);
     }
     void MoveSpreader(Vector2 direction){
         rb.MovePosition((Vector2)transform.position + (direction * moveSpeed * Time.deltaTime));
-
     }
 }
