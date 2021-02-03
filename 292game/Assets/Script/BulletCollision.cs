@@ -18,7 +18,7 @@ public class BulletCollision : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D col) {
         if (col.gameObject.name=="Spreader" ){
             Destroy(col.gameObject);
-            Destroy(this);
+            Destroy(this.gameObject);
         }
     }
 }
