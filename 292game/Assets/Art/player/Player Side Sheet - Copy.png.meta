@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 31b86e973ed417540ac904ee425ab4c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4571945371597551439
+    second: Player Side Sheet - Copy_0
+  - first:
+      213: 1393548004196884144
+    second: Player Side Sheet - Copy_1
+  - first:
+      213: 4124826608392315819
+    second: Player Side Sheet - Copy_2
+  - first:
+      213: -5112081884428265269
+    second: Player Side Sheet - Copy_3
+  - first:
+      213: -2011107725072487487
+    second: Player Side Sheet - Copy_4
+  - first:
+      213: 1413068469144112754
+    second: Player Side Sheet - Copy_5
+  - first:
+      213: 4540530017610522676
+    second: Player Side Sheet - Copy_6
+  - first:
+      213: -7821015347147519500
+    second: Player Side Sheet - Copy_7
+  - first:
+      213: -8641445067277130068
+    second: Player Side Sheet - Copy_8
+  - first:
+      213: -8150809893831199801
+    second: Player Side Sheet - Copy_9
+  - first:
+      213: 2473051027286612779
+    second: Player Side Sheet - Copy_10
+  - first:
+      213: -6626399287310316025
+    second: Player Side Sheet - Copy_11
+  - first:
+      213: 3765142335851893366
+    second: Player Side Sheet - Copy_12
+  - first:
+      213: -1340653934601153621
+    second: Player Side Sheet - Copy_13
+  - first:
+      213: 1118845495318390974
+    second: Player Side Sheet - Copy_14
+  - first:
+      213: 2247400996068991901
+    second: Player Side Sheet - Copy_15
+  - first:
+      213: -3734070306760114003
+    second: Player Side Sheet - Copy_16
+  - first:
+      213: 2552676605635608912
+    second: Player Side Sheet - Copy_17
+  - first:
+      213: 5746552847812591985
+    second: Player Side Sheet - Copy_18
+  - first:
+      213: 757787739770806050
+    second: Player Side Sheet - Copy_19
+  - first:
+      213: -2844802152848128452
+    second: Player Side Sheet - Copy_20
+  - first:
+      213: 3458601401783934609
+    second: Player Side Sheet - Copy_21
+  - first:
+      213: 8318908476469565520
+    second: Player Side Sheet - Copy_22
+  - first:
+      213: 1512557779694374107
+    second: Player Side Sheet - Copy_23
+  - first:
+      213: 773992089716330264
+    second: Player Side Sheet - Copy_24
+  - first:
+      213: 7034083164970736651
+    second: Player Side Sheet - Copy_25
+  - first:
+      213: -1301684439678772037
+    second: Player Side Sheet - Copy_26
+  - first:
+      213: 2009911980264304507
+    second: Player Side Sheet - Copy_27
+  - first:
+      213: -896300774699027670
+    second: Player Side Sheet - Copy_28
+  - first:
+      213: -1655168765836534456
+    second: Player Side Sheet - Copy_29
+  - first:
+      213: 6648951351201190601
+    second: Player Side Sheet - Copy_30
+  - first:
+      213: 8642288024505235172
+    second: Player Side Sheet - Copy_31
+  - first:
+      213: -82848205005952162
+    second: Player Side Sheet - Copy_32
+  - first:
+      213: 4296155955981243940
+    second: Player Side Sheet - Copy_33
+  - first:
+      213: 3299553132153910634
+    second: Player Side Sheet - Copy_34
+  - first:
+      213: 8651984349404816519
+    second: Player Side Sheet - Copy_35
+  - first:
+      213: -8685582203471783886
+    second: Player Side Sheet - Copy_36
+  - first:
+      213: -1916769952501475002
+    second: Player Side Sheet - Copy_37
+  - first:
+      213: -1993187380747188169
+    second: Player Side Sheet - Copy_38
+  - first:
+      213: 7801186026747786193
+    second: Player Side Sheet - Copy_39
+  - first:
+      213: 4932272750999363361
+    second: Player Side Sheet - Copy_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8cf6168ef2d80c0800000000000000
+      internalID: -4571945371597551439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1c97c680e65310800000000000000
+      internalID: 1393548004196884144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ad4132f35e3930800000000000000
+      internalID: 4124826608392315819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc891ff6c9c3e09b0800000000000000
+      internalID: -5112081884428265269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba20aed2c1714e0800000000000000
+      internalID: -2011107725072487487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec3a2394a3c9310800000000000000
+      internalID: 1413068469144112754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 135
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306ca78ef3330f30800000000000000
+      internalID: 4540530017610522676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 135
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c462bafb267390800000000000000
+      internalID: -7821015347147519500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 135
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca625e2ee7b631880800000000000000
+      internalID: -8641445067277130068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 135
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b37e169182ee80800000000000000
+      internalID: -8150809893831199801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 135
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b55d87eca025220800000000000000
+      internalID: 2473051027286612779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 135
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e87f3d4fc4a04a0800000000000000
+      internalID: -6626399287310316025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 135
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6729c318109704430800000000000000
+      internalID: 3765142335851893366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 135
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35e5d795a056de0800000000000000
+      internalID: -1340653934601153621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8aff2dc00f68f00800000000000000
+      internalID: 1118845495318390974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 91
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932d867c4f503f10800000000000000
+      internalID: 2247400996068991901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 91
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ca3707daed2cc0800000000000000
+      internalID: -3734070306760114003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 91
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0514c5129ddec6320800000000000000
+      internalID: 2552676605635608912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 91
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17101e85e5bdfbf40800000000000000
+      internalID: 5746552847812591985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5f243fe3348a00800000000000000
+      internalID: 757787739770806050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 52
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36883fa38b3588d0800000000000000
+      internalID: -2844802152848128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19edff486ab6fff20800000000000000
+      internalID: 3458601401783934609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 26
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05854f21f23b27370800000000000000
+      internalID: 8318908476469565520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 27
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdccfe8694fadf410800000000000000
+      internalID: 1512557779694374107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f018e64b5cdba00800000000000000
+      internalID: 773992089716330264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 11
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cd2a0de551e9160800000000000000
+      internalID: 7034083164970736651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc1b4316ec7fede0800000000000000
+      internalID: -1301684439678772037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa47d0c44a4eb10800000000000000
+      internalID: 2009911980264304507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233828b133bf83f0800000000000000
+      internalID: -896300774699027670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dddf4e6c8a709e0800000000000000
+      internalID: -1655168765836534456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25339b602d54c50800000000000000
+      internalID: 6648951351201190601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e63f336b239fe770800000000000000
+      internalID: 8642288024505235172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b675a1ff9a9def0800000000000000
+      internalID: -82848205005952162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d0f774130f9b30800000000000000
+      internalID: 4296155955981243940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bf87871e5acd20800000000000000
+      internalID: 3299553132153910634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7846384fce5021870800000000000000
+      internalID: 8651984349404816519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381c9e010d967780800000000000000
+      internalID: -8685582203471783886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d10932e34665e0800000000000000
+      internalID: -1916769952501475002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738c5c733a6c654e0800000000000000
+      internalID: -1993187380747188169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3fa0fdb51634c60800000000000000
+      internalID: 7801186026747786193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Side Sheet - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd7aa4fe3f27440800000000000000
+      internalID: 4932272750999363361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
