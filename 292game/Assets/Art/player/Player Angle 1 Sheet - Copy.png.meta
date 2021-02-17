@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: e5da8c95f1f590b42bcc796421fcbeca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6117109689580938891
+    second: Player Angle 1 Sheet - Copy_0
+  - first:
+      213: 5391838868907656693
+    second: Player Angle 1 Sheet - Copy_1
+  - first:
+      213: 3555881466980520920
+    second: Player Angle 1 Sheet - Copy_2
+  - first:
+      213: 4791295955650316397
+    second: Player Angle 1 Sheet - Copy_3
+  - first:
+      213: -8885976000473535201
+    second: Player Angle 1 Sheet - Copy_4
+  - first:
+      213: 1541835019011387946
+    second: Player Angle 1 Sheet - Copy_5
+  - first:
+      213: -7728008110962420301
+    second: Player Angle 1 Sheet - Copy_6
+  - first:
+      213: 4700495133985052827
+    second: Player Angle 1 Sheet - Copy_7
+  - first:
+      213: -2768687100145263174
+    second: Player Angle 1 Sheet - Copy_8
+  - first:
+      213: 6024032645463313941
+    second: Player Angle 1 Sheet - Copy_9
+  - first:
+      213: 1943581403716208978
+    second: Player Angle 1 Sheet - Copy_10
+  - first:
+      213: -2465420998856593585
+    second: Player Angle 1 Sheet - Copy_11
+  - first:
+      213: 3356269115149354670
+    second: Player Angle 1 Sheet - Copy_12
+  - first:
+      213: -5909788869398450940
+    second: Player Angle 1 Sheet - Copy_13
+  - first:
+      213: 1059647299773672597
+    second: Player Angle 1 Sheet - Copy_14
+  - first:
+      213: 4193175570763341945
+    second: Player Angle 1 Sheet - Copy_15
+  - first:
+      213: 7866710454321019798
+    second: Player Angle 1 Sheet - Copy_16
+  - first:
+      213: -581644618599279009
+    second: Player Angle 1 Sheet - Copy_17
+  - first:
+      213: 677947058400194823
+    second: Player Angle 1 Sheet - Copy_18
+  - first:
+      213: 5326222589970141487
+    second: Player Angle 1 Sheet - Copy_19
+  - first:
+      213: -567337774120211858
+    second: Player Angle 1 Sheet - Copy_20
+  - first:
+      213: -1858272578672396214
+    second: Player Angle 1 Sheet - Copy_21
+  - first:
+      213: -5887871244947920622
+    second: Player Angle 1 Sheet - Copy_22
+  - first:
+      213: 2331779517968001248
+    second: Player Angle 1 Sheet - Copy_23
+  - first:
+      213: -8600490138800176881
+    second: Player Angle 1 Sheet - Copy_24
+  - first:
+      213: 1727044165107634390
+    second: Player Angle 1 Sheet - Copy_25
+  - first:
+      213: -3605108640074796270
+    second: Player Angle 1 Sheet - Copy_26
+  - first:
+      213: -7032232257045694505
+    second: Player Angle 1 Sheet - Copy_27
+  - first:
+      213: -5736482282407076861
+    second: Player Angle 1 Sheet - Copy_28
+  - first:
+      213: 6737914200070008420
+    second: Player Angle 1 Sheet - Copy_29
+  - first:
+      213: -1732435878302825998
+    second: Player Angle 1 Sheet - Copy_30
+  - first:
+      213: -8113665590619597332
+    second: Player Angle 1 Sheet - Copy_31
+  - first:
+      213: -7425795039931424304
+    second: Player Angle 1 Sheet - Copy_32
+  - first:
+      213: -770834754248553040
+    second: Player Angle 1 Sheet - Copy_33
+  - first:
+      213: -8392940863183293741
+    second: Player Angle 1 Sheet - Copy_34
+  - first:
+      213: -1273391000428285862
+    second: Player Angle 1 Sheet - Copy_35
+  - first:
+      213: 7824229055423576919
+    second: Player Angle 1 Sheet - Copy_36
+  - first:
+      213: -3049855399734187483
+    second: Player Angle 1 Sheet - Copy_37
+  - first:
+      213: 3998613821824710394
+    second: Player Angle 1 Sheet - Copy_38
+  - first:
+      213: -4749816779333789787
+    second: Player Angle 1 Sheet - Copy_39
+  - first:
+      213: -2358558376679677165
+    second: Player Angle 1 Sheet - Copy_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8662935ad654e450800000000000000
+      internalID: 6117109689580938891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5826352e8a3da40800000000000000
+      internalID: 5391838868907656693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d4c6ba57095130800000000000000
+      internalID: 3555881466980520920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688d4a494a1e7240800000000000000
+      internalID: 4791295955650316397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 179
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1de02158ebaea480800000000000000
+      internalID: -8885976000473535201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 179
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a227e62e7c2b56510800000000000000
+      internalID: 1541835019011387946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 135
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55fbc519990c490800000000000000
+      internalID: -7728008110962420301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 135
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9891a98b638b3140800000000000000
+      internalID: 4700495133985052827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 135
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd92a560c5a399d0800000000000000
+      internalID: -2768687100145263174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 135
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e823c36c9a99350800000000000000
+      internalID: 6024032645463313941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 135
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2594f883dfcf8fa10800000000000000
+      internalID: 1943581403716208978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 135
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f2d55f9a019cdd0800000000000000
+      internalID: -2465420998856593585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 135
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6871b5afcd39e20800000000000000
+      internalID: 3356269115149354670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 135
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da2fda5563cfda0800000000000000
+      internalID: -5909788869398450940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c263ada9f94be00800000000000000
+      internalID: 1059647299773672597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 91
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e13817f6213a30800000000000000
+      internalID: 4193175570763341945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 91
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf7a48a7b2c2d60800000000000000
+      internalID: 7866710454321019798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 91
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565fd21d459de7f0800000000000000
+      internalID: -581644618599279009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 91
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f678f14d886900800000000000000
+      internalID: 677947058400194823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d4ddd93b8ae940800000000000000
+      internalID: 5326222589970141487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 52
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a67e1ec496028f0800000000000000
+      internalID: -567337774120211858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f16c6fe61636e0800000000000000
+      internalID: -1858272578672396214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 26
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21964a94c441a4ea0800000000000000
+      internalID: -5887871244947920622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 27
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a3070e152c5020800000000000000
+      internalID: 2331779517968001248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c09e39cbe4a880800000000000000
+      internalID: -8600490138800176881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 11
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d6a49481b7f710800000000000000
+      internalID: 1727044165107634390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21376a3eac418fdc0800000000000000
+      internalID: -3605108640074796270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d77fb4450e786e90800000000000000
+      internalID: -7032232257045694505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cddc0e1cbe360b0800000000000000
+      internalID: -5736482282407076861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eab361441e18d50800000000000000
+      internalID: 6737914200070008420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f14e9d5fb625f7e0800000000000000
+      internalID: -1732435878302825998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51fc42228766f80800000000000000
+      internalID: -8113665590619597332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1a70631c642f890800000000000000
+      internalID: -7425795039931424304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd4d7400e17d45f0800000000000000
+      internalID: -770834754248553040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2791da0c8468b80800000000000000
+      internalID: -8392940863183293741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fa4fb1a1045ee0800000000000000
+      internalID: -1273391000428285862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bffc11fde359c60800000000000000
+      internalID: 7824229055423576919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a698a3cacbca5d0800000000000000
+      internalID: -3049855399734187483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af634dbd51eed7730800000000000000
+      internalID: 3998613821824710394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 3
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79e970ec2451eb0800000000000000
+      internalID: -4749816779333789787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Angle 1 Sheet - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136cff07a7b44fd0800000000000000
+      internalID: -2358558376679677165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
