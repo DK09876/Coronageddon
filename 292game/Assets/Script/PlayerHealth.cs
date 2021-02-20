@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PHealth : MonoBehaviour
+public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 5;
+    public int maxHealth = 100;
     public int currentHealth;
 
     public HealthBar healthBar;
@@ -20,7 +20,7 @@ public class PHealth : MonoBehaviour
     void Update()
     {
         //insert attack input here
-        if (Input.GetKeyDown(KeyCode.Space) && currentHealth > 0)
+        if (Input.GetKeyDown(KeyCode.Space))
         {
           TakeDamage(1);
         }
