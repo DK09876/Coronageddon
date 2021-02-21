@@ -19,17 +19,28 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //insert attack input here
-        if (Input.GetKeyDown(KeyCode.Space))
+
+    }
+
+    private void OnTriggerEnter(Collider col)
+    {
+        if (col.gameObject.tag == "Enemy")
         {
-          TakeDamage(1);
+            TakeDamage(20);
         }
     }
 
-    void TakeDamage(int damage)
+    public void TakeDamage(int damage)
     {
-      currentHealth -= damage;
+        if (currentHealth > 0)
+        {
+            currentHealth -= damage;
 
-      healthBar.SetHealth(currentHealth);
+            healthBar.SetHealth(currentHealth);
+        }
+        else
+        {
+           Destroy(gameObject);
+        }
     }
 }
