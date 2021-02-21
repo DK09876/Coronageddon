@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":true,"pivot":{"x":-16.310680389404298,"y":6.133218765258789,"z":550.7730712890625},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":14.150453567504883,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":true,"pivot":{"x":-12.454425811767579,"y":13.575152397155762,"z":-0.9061742424964905},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":5.4959635734558109,"orthographic":true}
+>>>>>>> lmc
