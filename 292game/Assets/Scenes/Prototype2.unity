@@ -232,7 +232,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f33736a496ceba64996aedf6fd5a4d6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &1589946547
+--- !u!1001 &1744044090
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -302,7 +302,7 @@ PrefabInstance:
     - target: {fileID: 4836625699886143069, guid: 9457187e9f888a14694d1348b979318e,
         type: 3}
       propertyPath: m_Name
-      value: Main Camera
+      value: Main Camera (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9457187e9f888a14694d1348b979318e, type: 3}
