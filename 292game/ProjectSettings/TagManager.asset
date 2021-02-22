@@ -4,12 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
-  - Event
-=======
   - Enemy
-  - Tongue
->>>>>>> lmc
+  - Shelf Item
   layers:
   - Default
   - TransparentFX
@@ -19,7 +15,7 @@ TagManager:
   - UI
   - 
   - 
-  - Obstacle
+  - 
   - 
   - 
   - 

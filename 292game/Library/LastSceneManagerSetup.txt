@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/DKTEST.unity
-=======
 - path: Assets/Scenes/Lynn - Prototype2.unity
->>>>>>> lmc
   isLoaded: 1
   isActive: 1
   isSubScene: 0
