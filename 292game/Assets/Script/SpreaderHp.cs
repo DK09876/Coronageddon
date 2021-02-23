@@ -37,6 +37,7 @@ public class SpreaderHp : MonoBehaviour
         //IEnumerator freezetime= Freezercode();
         //StartCoroutine(freezetime);
         //}
+        
         spreaderHpBar.SetHp(currentHp);
 
         if (currentHp == 0)
@@ -44,6 +45,12 @@ public class SpreaderHp : MonoBehaviour
           animator.SetBool("die", true);
           rb.constraints = RigidbodyConstraints2D.FreezePosition;
           Destroy(this.gameObject, 1.0f);
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D col) {
+        if (col.gameObject.tag=="Bullet" ){
+            Destroy(col.gameObject);
+            SpreaderHp.currentHp -= 25;
         }
     }
 }
