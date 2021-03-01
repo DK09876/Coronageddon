@@ -6,6 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Lynn - Prototype2.unity
     guid: 71ad3b1cc73514a47beea7a0c4453070
+=======
+    path: Assets/Scenes/Sprint2.unity
+    guid: 54951fd917289314d8996768b98b8148
+  - enabled: 0
+    path: Assets/Scenes/DKTEST.unity
+    guid: 6a0c911948714cc4eb1ee12abf8056e5
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: 37b20677845fead4a812a43061c1cda6
+>>>>>>> upstream/main
   m_configObjects: {}
