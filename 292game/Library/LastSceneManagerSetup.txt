@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/Lynn - Prototype2.unity
-=======
-- path: Assets/Scenes/DKTEST.unity
->>>>>>> DKfeature
   isLoaded: 1
   isActive: 1
   isSubScene: 0

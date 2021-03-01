@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lynn - Prototype2.unity
+    guid: 71ad3b1cc73514a47beea7a0c4453070
   m_configObjects: {}
