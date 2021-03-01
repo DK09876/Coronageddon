@@ -4,13 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< HEAD
-  - Enemy
-  - Shelf Item
-=======
   - Event
   - Enemy
->>>>>>> DKfeature
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -20,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Obstacle
   - 
   - 
   - 

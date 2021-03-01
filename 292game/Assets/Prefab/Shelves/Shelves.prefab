@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7350783130008578970}
   - component: {fileID: 7350783130008578968}
   - component: {fileID: 7350783130008578971}
+  - component: {fileID: 1077380882}
   m_Layer: 8
   m_Name: SimpleShelf (15)
   m_TagString: Untagged
@@ -26,8 +27,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130008578973}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 12.13, y: -11.77, z: 0}
-  m_LocalScale: {x: 7.6228237, y: 7.3169312, z: 1}
+  m_LocalPosition: {x: 12.01, y: -11.77, z: 0}
+  m_LocalScale: {x: 4.7196345, y: 6.722123, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 15
@@ -108,6 +109,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1077380882
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130008578973}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130014966467
 GameObject:
   m_ObjectHideFlags: 0
@@ -119,6 +141,7 @@ GameObject:
   - component: {fileID: 7350783130014966464}
   - component: {fileID: 7350783130014966494}
   - component: {fileID: 7350783130014966465}
+  - component: {fileID: 915314519}
   m_Layer: 8
   m_Name: SimpleShelf (5)
   m_TagString: Untagged
@@ -134,8 +157,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130014966467}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.26, y: -2.22, z: 0}
-  m_LocalScale: {x: 9.151587, y: 2.5088205, z: 1}
+  m_LocalPosition: {x: -16.33, y: -2.22, z: 0}
+  m_LocalScale: {x: 6.7993927, y: 1.8500293, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 5
@@ -216,6 +239,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &915314519
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130014966467}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130323386257
 GameObject:
   m_ObjectHideFlags: 0
@@ -227,6 +271,7 @@ GameObject:
   - component: {fileID: 7350783130323386286}
   - component: {fileID: 7350783130323386284}
   - component: {fileID: 7350783130323386287}
+  - component: {fileID: 1036366159}
   m_Layer: 8
   m_Name: SimpleShelf (10)
   m_TagString: Untagged
@@ -242,8 +287,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130323386257}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.15, y: -14.11, z: 0}
-  m_LocalScale: {x: 13.734817, y: 3.6826327, z: 1}
+  m_LocalPosition: {x: -9.04, y: -14.11, z: 0}
+  m_LocalScale: {x: 11.905383, y: 2.869756, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 10
@@ -324,6 +369,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1036366159
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130323386257}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130473286256
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +401,7 @@ GameObject:
   - component: {fileID: 7350783130473286257}
   - component: {fileID: 7350783130473286287}
   - component: {fileID: 7350783130473286286}
+  - component: {fileID: 870454903}
   m_Layer: 8
   m_Name: SimpleShelf (8)
   m_TagString: Untagged
@@ -350,8 +417,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130473286256}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.2, y: -8.65, z: 0}
-  m_LocalScale: {x: 13.734817, y: 3.6826327, z: 1}
+  m_LocalPosition: {x: -16.39, y: -8.65, z: 0}
+  m_LocalScale: {x: 10.544768, y: 2.9883893, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 8
@@ -432,6 +499,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &870454903
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130473286256}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130576253525
 GameObject:
   m_ObjectHideFlags: 0
@@ -443,6 +531,7 @@ GameObject:
   - component: {fileID: 7350783130576253522}
   - component: {fileID: 7350783130576253521}
   - component: {fileID: 7350783130576253523}
+  - component: {fileID: 1736579457}
   m_Layer: 8
   m_Name: SimpleShelf (1)
   m_TagString: Untagged
@@ -458,8 +547,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130576253525}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.36, y: 3.54, z: 0}
-  m_LocalScale: {x: 9.038604, y: 9.826469, z: 1}
+  m_LocalPosition: {x: -4.39, y: 3.54, z: 0}
+  m_LocalScale: {x: 7.0512223, y: 9.826469, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 1
@@ -540,6 +629,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1736579457
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130576253525}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130706158011
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,6 +661,7 @@ GameObject:
   - component: {fileID: 7350783130706158008}
   - component: {fileID: 7350783130706158006}
   - component: {fileID: 7350783130706158009}
+  - component: {fileID: 350857897}
   m_Layer: 8
   m_Name: SimpleShelf (14)
   m_TagString: Untagged
@@ -566,8 +677,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130706158011}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.55, y: -11.73, z: 0}
-  m_LocalScale: {x: 7.6228237, y: 7.3169312, z: 1}
+  m_LocalPosition: {x: 7.33, y: -11.67, z: 0}
+  m_LocalScale: {x: 5.4747763, y: 6.6260114, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 14
@@ -648,6 +759,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &350857897
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130706158011}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130798881983
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +791,7 @@ GameObject:
   - component: {fileID: 7350783130798881980}
   - component: {fileID: 7350783130798881979}
   - component: {fileID: 7350783130798881981}
+  - component: {fileID: 834126744}
   m_Layer: 8
   m_Name: SimpleShelf
   m_TagString: Untagged
@@ -674,8 +807,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130798881983}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.82, y: 3.5, z: 0}
-  m_LocalScale: {x: 9.038604, y: 9.826469, z: 1}
+  m_LocalPosition: {x: -9.94, y: 3.5, z: 0}
+  m_LocalScale: {x: 7.27507, y: 9.826469, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 0
@@ -756,6 +889,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &834126744
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130798881983}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783130894219610
 GameObject:
   m_ObjectHideFlags: 0
@@ -767,6 +921,7 @@ GameObject:
   - component: {fileID: 7350783130894219611}
   - component: {fileID: 7350783130894219609}
   - component: {fileID: 7350783130894219608}
+  - component: {fileID: 490272449}
   m_Layer: 8
   m_Name: SimpleShelf (6)
   m_TagString: Untagged
@@ -782,8 +937,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783130894219610}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.15, y: 2.54, z: 0}
-  m_LocalScale: {x: 9.151587, y: 2.3179152, z: 1}
+  m_LocalPosition: {x: -16.26, y: 2.6, z: 0}
+  m_LocalScale: {x: 7.2526855, y: 1.7382277, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 6
@@ -864,6 +1019,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &490272449
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130894219610}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131028073959
 GameObject:
   m_ObjectHideFlags: 0
@@ -875,6 +1051,7 @@ GameObject:
   - component: {fileID: 7350783131028073956}
   - component: {fileID: 7350783131028073955}
   - component: {fileID: 7350783131028073957}
+  - component: {fileID: 1922590708}
   m_Layer: 8
   m_Name: SimpleShelf (3)
   m_TagString: Untagged
@@ -890,8 +1067,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131028073959}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.98, y: 3.58, z: 0}
-  m_LocalScale: {x: 9.038604, y: 9.826469, z: 1}
+  m_LocalPosition: {x: 6.99, y: 3.58, z: 0}
+  m_LocalScale: {x: 6.8273735, y: 9.826469, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 3
@@ -972,6 +1149,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1922590708
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131028073959}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131060934043
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,6 +1181,7 @@ GameObject:
   - component: {fileID: 7350783131060934040}
   - component: {fileID: 7350783131060934038}
   - component: {fileID: 7350783131060934041}
+  - component: {fileID: 55791361}
   m_Layer: 8
   m_Name: SimpleShelf (13)
   m_TagString: Untagged
@@ -998,8 +1197,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131060934043}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.54, y: -11.64, z: 0}
-  m_LocalScale: {x: 7.6228237, y: 7.3169312, z: 1}
+  m_LocalPosition: {x: 2.48, y: -11.73, z: 0}
+  m_LocalScale: {x: 4.590582, y: 6.533866, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 13
@@ -1080,6 +1279,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &55791361
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131060934043}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131235348336
 GameObject:
   m_ObjectHideFlags: 0
@@ -1091,6 +1311,7 @@ GameObject:
   - component: {fileID: 7350783131235348337}
   - component: {fileID: 7350783131235348367}
   - component: {fileID: 7350783131235348366}
+  - component: {fileID: 1889316028}
   m_Layer: 8
   m_Name: SimpleShelf (7)
   m_TagString: Untagged
@@ -1106,8 +1327,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131235348336}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.33, y: 8.68, z: 0}
-  m_LocalScale: {x: 9.151587, y: 2.9461062, z: 1}
+  m_LocalPosition: {x: -16.25, y: 8.68, z: 0}
+  m_LocalScale: {x: 7.3660088, y: 2.3198228, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 7
@@ -1188,6 +1409,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1889316028
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131235348336}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131258781340
 GameObject:
   m_ObjectHideFlags: 0
@@ -1199,6 +1441,7 @@ GameObject:
   - component: {fileID: 7350783131258781341}
   - component: {fileID: 7350783131258781339}
   - component: {fileID: 7350783131258781338}
+  - component: {fileID: 1305925465}
   m_Layer: 8
   m_Name: SimpleShelf (11)
   m_TagString: Untagged
@@ -1214,8 +1457,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131258781340}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.22, y: -14.26, z: 0}
-  m_LocalScale: {x: 13.734817, y: 3.6826327, z: 1}
+  m_LocalPosition: {x: -16.29, y: -14.21, z: 0}
+  m_LocalScale: {x: 11.41216, y: 3.2221563, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 11
@@ -1296,6 +1539,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1305925465
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131258781340}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131283506300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1307,6 +1571,7 @@ GameObject:
   - component: {fileID: 7350783131283506301}
   - component: {fileID: 7350783131283506296}
   - component: {fileID: 7350783131283506298}
+  - component: {fileID: 50909673}
   m_Layer: 8
   m_Name: SimpleShelf (4)
   m_TagString: Untagged
@@ -1323,7 +1588,7 @@ Transform:
   m_GameObject: {fileID: 7350783131283506300}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 12.53, y: 3.48, z: 0}
-  m_LocalScale: {x: 9.038604, y: 9.826469, z: 1}
+  m_LocalScale: {x: 7.109982, y: 9.826469, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 4
@@ -1404,6 +1669,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &50909673
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131283506300}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131332070570
 GameObject:
   m_ObjectHideFlags: 0
@@ -1429,7 +1715,7 @@ Transform:
   m_GameObject: {fileID: 7350783131332070570}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.03, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3.7881227, y: 3.644209, z: 0.4864247}
   m_Children:
   - {fileID: 7350783130798881980}
   - {fileID: 7350783130576253522}
@@ -1461,6 +1747,7 @@ GameObject:
   - component: {fileID: 7350783131373689656}
   - component: {fileID: 7350783131373689655}
   - component: {fileID: 7350783131373689657}
+  - component: {fileID: 351123530}
   m_Layer: 8
   m_Name: SimpleShelf (2)
   m_TagString: Untagged
@@ -1476,8 +1763,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131373689659}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.35, y: 3.55, z: 0}
-  m_LocalScale: {x: 9.038604, y: 9.826469, z: 1}
+  m_LocalPosition: {x: 1.31, y: 3.55, z: 0}
+  m_LocalScale: {x: 6.8273735, y: 9.826469, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 2
@@ -1558,6 +1845,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &351123530
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131373689659}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131434394792
 GameObject:
   m_ObjectHideFlags: 0
@@ -1569,6 +1877,7 @@ GameObject:
   - component: {fileID: 7350783131434394793}
   - component: {fileID: 7350783131434394791}
   - component: {fileID: 7350783131434394790}
+  - component: {fileID: 788401289}
   m_Layer: 8
   m_Name: SimpleShelf (12)
   m_TagString: Untagged
@@ -1584,8 +1893,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131434394792}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.24, y: -11.8, z: 0}
-  m_LocalScale: {x: 7.6228237, y: 7.3169312, z: 1}
+  m_LocalPosition: {x: -2.3, y: -11.8, z: 0}
+  m_LocalScale: {x: 5.191598, y: 6.6672573, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 12
@@ -1666,6 +1975,27 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &788401289
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131434394792}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &7350783131746133156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,6 +2007,7 @@ GameObject:
   - component: {fileID: 7350783131746133157}
   - component: {fileID: 7350783131746133155}
   - component: {fileID: 7350783131746133154}
+  - component: {fileID: 1212904442}
   m_Layer: 8
   m_Name: SimpleShelf (9)
   m_TagString: Untagged
@@ -1692,8 +2023,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7350783131746133156}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.02, y: -8.71, z: 0}
-  m_LocalScale: {x: 13.734817, y: 3.6826327, z: 1}
+  m_LocalPosition: {x: -9.17, y: -8.71, z: 0}
+  m_LocalScale: {x: 10.714846, y: 3.0085204, z: 1}
   m_Children: []
   m_Father: {fileID: 7350783131332070571}
   m_RootOrder: 9
@@ -1774,3 +2105,24 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+--- !u!50 &1212904442
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131746133156}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

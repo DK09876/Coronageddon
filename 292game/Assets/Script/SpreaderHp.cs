@@ -8,9 +8,9 @@ public class SpreaderHp : MonoBehaviour
    public Animator animator;
    public Rigidbody2D rb;
 
-   public int maxHp=100;
-   public static int currentHp;
 
+   public int maxHp=100;
+    public int currentHp;
    public float tier1reduc=5f;
    public float tier2reduc=10f;
    public float tier3reduc=20f;
@@ -37,6 +37,7 @@ public class SpreaderHp : MonoBehaviour
         //IEnumerator freezetime= Freezercode();
         //StartCoroutine(freezetime);
         //}
+        
         spreaderHpBar.SetHp(currentHp);
 
         if (currentHp == 0)
