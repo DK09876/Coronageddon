@@ -8,9 +8,9 @@ public class SpreaderHp : MonoBehaviour
    public Animator animator;
    public Rigidbody2D rb;
 
-   public int maxHp=100;
-   public static int currentHp;
 
+   public int maxHp=100;
+    public int currentHp;
    public float tier1reduc=5f;
    public float tier2reduc=10f;
    public float tier3reduc=20f;
@@ -45,12 +45,6 @@ public class SpreaderHp : MonoBehaviour
           animator.SetBool("die", true);
           rb.constraints = RigidbodyConstraints2D.FreezePosition;
           Destroy(this.gameObject, 1.0f);
-        }
-    }
-    private void OnCollisionEnter2D(Collision2D col) {
-        if (col.gameObject.tag=="Bullet" ){
-            Destroy(col.gameObject);
-            SpreaderHp.currentHp -= 25;
         }
     }
 }

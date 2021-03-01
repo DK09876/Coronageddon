@@ -27,8 +27,8 @@ public class ShopUI : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        if (isTouching())
         if (Input.GetKeyDown(KeyCode.Escape)){
-            if (isTouching())
             if (GameIsPaused){
                 Resume();
             }

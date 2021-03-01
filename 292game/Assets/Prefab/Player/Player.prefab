@@ -489,7 +489,7 @@ Transform:
   m_GameObject: {fileID: 4362224681123205635}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -16.9, y: 13.7, z: 0}
-  m_LocalScale: {x: 10.094801, y: 10.094801, z: 10.094801}
+  m_LocalScale: {x: 37.96504, y: 34.93182, z: 10.094801}
   m_Children:
   - {fileID: 4362224680261547413}
   - {fileID: 4362224680563712024}
@@ -580,7 +580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9edc8586658ee3e4785acea9a0e9c650, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 15
   rb: {fileID: 4362224681123205638}
   animator: {fileID: 4362224681123205632}
 --- !u!114 &4362224681123205633
@@ -600,8 +600,8 @@ MonoBehaviour:
     type: 3}
   ammoBar: {fileID: 4362224681324274308}
   bulletForce: 4
-  maxAmmo: 10
-  currentAmmo: 10
+  maxAmmo: 20
+  currentAmmo: 20
 --- !u!114 &4362224681123205634
 MonoBehaviour:
   m_ObjectHideFlags: 0
