@@ -11,6 +11,11 @@ GameObject:
   - component: {fileID: 7350783130008578970}
   - component: {fileID: 7350783130008578968}
   - component: {fileID: 7350783130008578971}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1077380882}
+  - component: {fileID: 1584558743}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (15)
   m_TagString: Untagged
@@ -108,6 +113,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1077380882
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130008578973}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1584558743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130008578973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130014966467
 GameObject:
   m_ObjectHideFlags: 0
@@ -119,6 +161,11 @@ GameObject:
   - component: {fileID: 7350783130014966464}
   - component: {fileID: 7350783130014966494}
   - component: {fileID: 7350783130014966465}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 915314519}
+  - component: {fileID: 1578367953}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (5)
   m_TagString: Untagged
@@ -216,6 +263,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &915314519
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130014966467}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1578367953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130014966467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130323386257
 GameObject:
   m_ObjectHideFlags: 0
@@ -227,6 +311,11 @@ GameObject:
   - component: {fileID: 7350783130323386286}
   - component: {fileID: 7350783130323386284}
   - component: {fileID: 7350783130323386287}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1036366159}
+  - component: {fileID: 1286727331}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (10)
   m_TagString: Untagged
@@ -324,6 +413,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1036366159
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130323386257}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1286727331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130323386257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130473286256
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +461,11 @@ GameObject:
   - component: {fileID: 7350783130473286257}
   - component: {fileID: 7350783130473286287}
   - component: {fileID: 7350783130473286286}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 870454903}
+  - component: {fileID: 2074170242}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (8)
   m_TagString: Untagged
@@ -432,6 +563,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &870454903
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130473286256}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &2074170242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130473286256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130576253525
 GameObject:
   m_ObjectHideFlags: 0
@@ -443,6 +611,11 @@ GameObject:
   - component: {fileID: 7350783130576253522}
   - component: {fileID: 7350783130576253521}
   - component: {fileID: 7350783130576253523}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1736579457}
+  - component: {fileID: 2105830238}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (1)
   m_TagString: Untagged
@@ -540,6 +713,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1736579457
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130576253525}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &2105830238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130576253525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130706158011
 GameObject:
   m_ObjectHideFlags: 0
@@ -551,6 +761,11 @@ GameObject:
   - component: {fileID: 7350783130706158008}
   - component: {fileID: 7350783130706158006}
   - component: {fileID: 7350783130706158009}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 350857897}
+  - component: {fileID: 1975957689}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (14)
   m_TagString: Untagged
@@ -648,6 +863,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &350857897
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130706158011}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1975957689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130706158011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130798881983
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,6 +911,11 @@ GameObject:
   - component: {fileID: 7350783130798881980}
   - component: {fileID: 7350783130798881979}
   - component: {fileID: 7350783130798881981}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 834126744}
+  - component: {fileID: 1868129716}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf
   m_TagString: Untagged
@@ -756,6 +1013,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &834126744
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130798881983}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1868129716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130798881983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783130894219610
 GameObject:
   m_ObjectHideFlags: 0
@@ -767,6 +1061,11 @@ GameObject:
   - component: {fileID: 7350783130894219611}
   - component: {fileID: 7350783130894219609}
   - component: {fileID: 7350783130894219608}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 490272449}
+  - component: {fileID: 1653088344}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (6)
   m_TagString: Untagged
@@ -864,6 +1163,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &490272449
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130894219610}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &1653088344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783130894219610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131028073959
 GameObject:
   m_ObjectHideFlags: 0
@@ -875,6 +1211,11 @@ GameObject:
   - component: {fileID: 7350783131028073956}
   - component: {fileID: 7350783131028073955}
   - component: {fileID: 7350783131028073957}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1922590708}
+  - component: {fileID: 448181484}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (3)
   m_TagString: Untagged
@@ -972,6 +1313,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1922590708
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131028073959}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &448181484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131028073959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131060934043
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,6 +1361,11 @@ GameObject:
   - component: {fileID: 7350783131060934040}
   - component: {fileID: 7350783131060934038}
   - component: {fileID: 7350783131060934041}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 55791361}
+  - component: {fileID: 414715033}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (13)
   m_TagString: Untagged
@@ -1080,6 +1463,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &55791361
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131060934043}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &414715033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131060934043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131235348336
 GameObject:
   m_ObjectHideFlags: 0
@@ -1091,6 +1511,11 @@ GameObject:
   - component: {fileID: 7350783131235348337}
   - component: {fileID: 7350783131235348367}
   - component: {fileID: 7350783131235348366}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1889316028}
+  - component: {fileID: 358446722}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (7)
   m_TagString: Untagged
@@ -1188,6 +1613,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1889316028
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131235348336}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &358446722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131235348336}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131258781340
 GameObject:
   m_ObjectHideFlags: 0
@@ -1199,6 +1661,11 @@ GameObject:
   - component: {fileID: 7350783131258781341}
   - component: {fileID: 7350783131258781339}
   - component: {fileID: 7350783131258781338}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1305925465}
+  - component: {fileID: 351725462}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (11)
   m_TagString: Untagged
@@ -1296,6 +1763,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1305925465
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131258781340}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &351725462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131258781340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131283506300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1307,6 +1811,11 @@ GameObject:
   - component: {fileID: 7350783131283506301}
   - component: {fileID: 7350783131283506296}
   - component: {fileID: 7350783131283506298}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 50909673}
+  - component: {fileID: 175922549}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (4)
   m_TagString: Untagged
@@ -1404,6 +1913,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &50909673
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131283506300}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &175922549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131283506300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131332070570
 GameObject:
   m_ObjectHideFlags: 0
@@ -1461,6 +2007,11 @@ GameObject:
   - component: {fileID: 7350783131373689656}
   - component: {fileID: 7350783131373689655}
   - component: {fileID: 7350783131373689657}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 351123530}
+  - component: {fileID: 219955768}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (2)
   m_TagString: Untagged
@@ -1558,6 +2109,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &351123530
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131373689659}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &219955768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131373689659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131434394792
 GameObject:
   m_ObjectHideFlags: 0
@@ -1569,6 +2157,11 @@ GameObject:
   - component: {fileID: 7350783131434394793}
   - component: {fileID: 7350783131434394791}
   - component: {fileID: 7350783131434394790}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 788401289}
+  - component: {fileID: 25083306}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (12)
   m_TagString: Untagged
@@ -1666,6 +2259,43 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &788401289
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131434394792}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &25083306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131434394792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &7350783131746133156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1677,6 +2307,11 @@ GameObject:
   - component: {fileID: 7350783131746133157}
   - component: {fileID: 7350783131746133155}
   - component: {fileID: 7350783131746133154}
+<<<<<<< Updated upstream
+=======
+  - component: {fileID: 1212904442}
+  - component: {fileID: 935558574}
+>>>>>>> Stashed changes
   m_Layer: 8
   m_Name: SimpleShelf (9)
   m_TagString: Untagged
@@ -1774,3 +2409,40 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.34, y: 1.31}
   m_EdgeRadius: 0
+<<<<<<< Updated upstream
+=======
+--- !u!50 &1212904442
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131746133156}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &935558574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7350783131746133156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f0f09b4f045c01429809d745c05283b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panel: {fileID: 0}
+>>>>>>> Stashed changes
