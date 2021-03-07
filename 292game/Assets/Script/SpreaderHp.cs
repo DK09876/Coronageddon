@@ -40,7 +40,7 @@ public class SpreaderHp : MonoBehaviour
         
         spreaderHpBar.SetHp(currentHp);
 
-        if (currentHp == 0)
+        if (currentHp <= 0)
         {
           animator.SetBool("die", true);
           rb.constraints = RigidbodyConstraints2D.FreezePosition;

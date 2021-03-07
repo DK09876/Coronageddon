@@ -43,4 +43,9 @@ public class Shooting : MonoBehaviour
       Rigidbody2D bulletInstance = bullet.GetComponent<Rigidbody2D>();
       bulletInstance.velocity = new Vector2(shootDirection.x * bulletForce, shootDirection.y * bulletForce);
     }
+
+    public void refreshammo(){
+      currentAmmo = maxAmmo;
+      ammoBar.SetAmmo(currentAmmo);
+    }
 }
