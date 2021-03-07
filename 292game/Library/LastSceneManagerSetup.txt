@@ -1,9 +1,13 @@
 sceneSetups:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 - path: Assets/Scenes/Lynn - Prototype2.unity
 =======
 - path: Assets/Scenes/Sprint2.unity
 >>>>>>> Stashed changes
+=======
+- path: Assets/Scenes/lynn sprint 3.unity
+>>>>>>> master
   isLoaded: 1
   isActive: 1
   isSubScene: 0

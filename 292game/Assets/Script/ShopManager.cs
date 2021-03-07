@@ -8,7 +8,7 @@ public class ShopManager : MonoBehaviour
    public int[,] shopItems= new int[5,5];
    public float score;
    public Text scoretxt;
-   
+   public GameObject player;
    
    
    
@@ -45,7 +45,7 @@ public class ShopManager : MonoBehaviour
             scoretxt.text= "Score:" + score;
         }
 
-
+        player.GetComponent<PlayerTier>().Playertier= shopItems[1,ButtonRef.GetComponent<ButtonInfo>().ItemID];
     }
 
 
