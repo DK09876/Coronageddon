@@ -17,34 +17,34 @@ public static class ButtonExtension
 
 public class Panel : MonoBehaviour
 {
-	[Serializable]
-	public struct Item
-	{
-		public Sprite Icon;
-	}
-
 	public Sprite[] itemsSprites;
 	private int index;
+	// private int bagIndex;
+	// public static string itemNameBag;
 	// [SerializeField] Item[] allItems;
 
 	void Start ()
 	{
 		GameObject buttonTemplate = transform.GetChild(0).gameObject;
 		GameObject g;
-
-		// int N = allItems.Length;
+		// bagIndex = Random.Range(0,8);
 
 		for (int i = 0; i < 9; i++) {
 			g = Instantiate (buttonTemplate, transform);
 			index = Random.Range (0, itemsSprites.Length);
 			g.transform.GetComponent<Image>().sprite = itemsSprites[index];
 			g.GetComponent<Button>().AddEventListener(i, ItemClicked);
+			// if (i == bagIndex) {
+			// 	itemNameBag = itemsSprites[index].name;
+			// }
 		}
 		Destroy (buttonTemplate);
 	}
 
-	void ItemClicked (int itemIndex)
+	public void ItemClicked (int itemIndex)
 	{
-		Debug.Log ("------------item " + itemIndex + " clicked---------------");
+		// Debug.Log ("------------item " + itemIndex + " clicked---------------");
+		// Debug.Log(transform.GetChild(itemIndex).GetComponent<Image>().sprite.name);
+		// Debug.Log(itemNameBag);
 	}
 }
