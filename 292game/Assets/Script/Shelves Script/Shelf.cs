@@ -5,11 +5,14 @@ using UnityEngine;
 public class Shelf : MonoBehaviour
 {
     public GameObject panel;
+    public Transform player;
     public static bool gameIsPaused;
     private void OnMouseUpAsButton() {
+        if (Vector3.Distance(this.transform.position,player.position) < 15){ 
         panel.SetActive(true);
         gameIsPaused = true;
         PauseGame();
+        }
     }
     
     void Update() {

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -9,7 +9,7 @@ public class ShopManager : MonoBehaviour
    public float score;
    public Text scoretxt;
    public GameObject player;
-   
+
    
    
     // Start is called before the first frame update
@@ -28,7 +28,6 @@ public class ShopManager : MonoBehaviour
         shopItems[2,2] = 100;
         shopItems[2,3] = 150;
         shopItems[2,4] = 200;
-
         
        
 
@@ -39,13 +38,23 @@ public class ShopManager : MonoBehaviour
 
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
 
+            if (ButtonRef.GetComponent<ButtonInfo>().ItemID == 5){
+                if (score >= 500){
+            player.GetComponent<Shooting>().refreshammo();
+            score -= 500;
+            scoretxt.text= "Score:" + score;
+            }
+            return;
+        }
+
         if (score >= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID])
         {
             score -= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID];
             scoretxt.text= "Score:" + score;
+            player.GetComponent<PlayerTier>().Playertier= shopItems[1,ButtonRef.GetComponent<ButtonInfo>().ItemID];
         }
 
-        player.GetComponent<PlayerTier>().Playertier= shopItems[1,ButtonRef.GetComponent<ButtonInfo>().ItemID];
+        
     }
 
 
