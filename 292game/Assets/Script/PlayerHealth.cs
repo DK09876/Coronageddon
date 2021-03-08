@@ -19,12 +19,14 @@ public class PlayerHealth : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (currentHealth <= 0){
+            Destroy(this);
+        }
     }
 
-    private void OnTriggerEnter(Collider col)
+    private void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag == "Enemy")
+        if (col.gameObject.name == "Enemy")
         {
             TakeDamage(20);
         }

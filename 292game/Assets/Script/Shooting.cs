@@ -26,9 +26,11 @@ public class Shooting : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && currentAmmo > 0)
         {
+          if (Time.timeScale!=0){
           Shoot();
           currentAmmo--;
           ammoBar.SetAmmo(currentAmmo);
+          }
         }
     }
 
@@ -42,5 +44,10 @@ public class Shooting : MonoBehaviour
       GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.Euler(new Vector3(0,0,0)));
       Rigidbody2D bulletInstance = bullet.GetComponent<Rigidbody2D>();
       bulletInstance.velocity = new Vector2(shootDirection.x * bulletForce, shootDirection.y * bulletForce);
+    }
+
+    public void refreshammo(){
+      currentAmmo = maxAmmo;
+      ammoBar.SetAmmo(currentAmmo);
     }
 }
