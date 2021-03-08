@@ -9,7 +9,7 @@ public class ShopManager : MonoBehaviour
    public float score;
    public Text scoretxt;
    public GameObject player;
-   public GameObject wall;
+
    
    
     // Start is called before the first frame update

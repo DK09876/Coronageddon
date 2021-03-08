@@ -26,9 +26,11 @@ public class Shooting : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1") && currentAmmo > 0)
         {
+          if (Time.timeScale!=0){
           Shoot();
           currentAmmo--;
           ammoBar.SetAmmo(currentAmmo);
+          }
         }
     }
 

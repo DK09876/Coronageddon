@@ -5,25 +5,19 @@ using UnityEngine;
 public class Shelf : MonoBehaviour
 {
     public GameObject panel;
-<<<<<<< HEAD
-    private void OnMouseUpAsButton() {
-        panel.SetActive(true);
-=======
+    public Transform player;
     public static bool gameIsPaused;
     private void OnMouseUpAsButton() {
+        if (Vector3.Distance(this.transform.position,player.position) < 15){ 
         panel.SetActive(true);
         gameIsPaused = true;
         PauseGame();
->>>>>>> master
+        }
     }
     
     void Update() {
         if (Input.GetMouseButtonDown(1)) {
             panel.SetActive(false);
-<<<<<<< HEAD
-        }
-    }
-=======
             gameIsPaused = false;
             ResumeGame();
         }
@@ -38,5 +32,4 @@ public class Shelf : MonoBehaviour
     {
         Time.timeScale = 1;
     }
->>>>>>> master
 }
