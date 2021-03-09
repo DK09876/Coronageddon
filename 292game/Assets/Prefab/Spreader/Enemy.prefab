@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 2
-  radius: 0.07
+  radius: 0.1
   height: 2
   repathRate: 0.5
   canSearch: 1
@@ -525,7 +525,7 @@ MonoBehaviour:
   slowdownDistance: 0.6
   pickNextWaypointDist: 1.2
   endReachedDistance: 0.2
-  alwaysDrawGizmos: 0
+  alwaysDrawGizmos: 1
   slowWhenNotFacingTarget: 1
   whenCloseToDestination: 0
   constrainInsideGraph: 0
@@ -556,9 +556,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.015040278, y: -0.021981811}
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.06
+  m_Radius: 0.02
 --- !u!50 &1296101110314331177
 Rigidbody2D:
   serializedVersion: 4

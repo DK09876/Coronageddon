@@ -28,7 +28,7 @@ public class ShopUI : MonoBehaviour
     private void Update()
     {
         if (isTouching())
-        if (Input.GetKeyDown(KeyCode.Escape)){
+        if (Input.GetKeyDown(KeyCode.Space)){
             if (GameIsPaused){
                 Resume();
             }

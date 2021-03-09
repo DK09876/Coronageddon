@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class ShopManager : MonoBehaviour
 {
    public int[,] shopItems= new int[5,5];
-   public float score;
    public Text scoretxt;
    public GameObject player;
 
@@ -15,7 +14,7 @@ public class ShopManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scoretxt.text= "Score:" + score;
+        scoretxt.text= "Score:" + ScoreScript.scoreNum.ToString();
         
         //IDs
         shopItems[1,1] = 1;
@@ -35,6 +34,7 @@ public class ShopManager : MonoBehaviour
 
 
     public void buy(){
+        int score = ScoreScript.scoreNum;
 
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
 

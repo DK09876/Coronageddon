@@ -16,6 +16,7 @@ public class GameOverScreen : MonoBehaviour
     public void PlayAgain()
     {
         //insert name of game screen below
-        SceneManager.LoadScene("lynn sprint 3");
+        SceneManager.LoadScene("MondayPresent");
+        ScoreScript.scoreNum = 0;
     }
 }
