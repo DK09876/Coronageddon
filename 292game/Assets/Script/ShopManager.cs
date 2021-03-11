@@ -8,13 +8,15 @@ public class ShopManager : MonoBehaviour
    public int[,] shopItems= new int[5,5];
    public Text scoretxt;
    public GameObject player;
+   public int score;
 
    
    
     // Start is called before the first frame update
     void Start()
     {
-        scoretxt.text = ScoreScript.scoreNum.ToString() + " points to spend";
+        
+        
         
         //IDs
         shopItems[1,1] = 1;
@@ -28,26 +30,27 @@ public class ShopManager : MonoBehaviour
         shopItems[2,3] = 150;
         shopItems[2,4] = 200;
     }
-
+    private void Update() {
+            score = ScoreScript.scoreNum;
+            scoretxt.text = score.ToString() + " points to spend";
+    }
 
     public void buy(){
-        int score = ScoreScript.scoreNum;
+        
 
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
 
             if (ButtonRef.GetComponent<ButtonInfo>().ItemID == 5){
                 if (score >= 500){
             player.GetComponent<Shooting>().refreshammo();
-            score -= 500;
-            scoretxt.text= score + " points to spend";
+            ScoreScript.scoreNum-=500;
             }
             return;
         }
 
         if (score >= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID])
         {
-            score -= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID];
-            scoretxt.text= score + " points to spend";
+            ScoreScript.scoreNum -= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID];
             player.GetComponent<PlayerTier>().Playertier= shopItems[1,ButtonRef.GetComponent<ButtonInfo>().ItemID];
         }
     }

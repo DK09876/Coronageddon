@@ -28,11 +28,12 @@ public class ShopUI : MonoBehaviour
     private void Update()
     {
         if (isTouching())
-        if (Input.GetKeyDown(KeyCode.Space)){
+        if (Input.GetMouseButtonDown(1)){
             if (GameIsPaused){
                 Resume();
             }
             else{
+                if (Input.GetMouseButtonDown(0))
                 Pause();
             }
         }   
