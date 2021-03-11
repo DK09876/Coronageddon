@@ -9,6 +9,7 @@ public class PlayerHealth : MonoBehaviour
     public GameOverScreen gameOverScreen;
 
     public HealthBar healthBar;
+    // public Animator enemyAnimator;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,12 @@ public class PlayerHealth : MonoBehaviour
             Destroy(this);
             gameOverScreen.Setup(ScoreScript.scoreNum);
         }
+        // else if (enemyAnimator.GetBool("attack") == true)
+        // {
+        //     Debug.Log("dmg");
+        //     TakeDamage(20);
+        //     WaitForSecondsRealtime(1);
+        // }
     }
 
     private void OnCollisionEnter2D(Collision2D col)

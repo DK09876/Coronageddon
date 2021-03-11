@@ -595,6 +595,8 @@ MonoBehaviour:
   spreaderHpBar: {fileID: 1930749513812232214}
   animator: {fileID: 1930749513710262031}
   rb: {fileID: 1296101110314331177}
+  xpos: 0
+  ypos: 0
   maxHp: 100
   currentHp: 0
   tier1reduc: 5

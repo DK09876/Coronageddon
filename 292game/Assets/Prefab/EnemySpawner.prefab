@@ -46,4 +46,3 @@ MonoBehaviour:
   enemy: {fileID: 0}
   xpos: 0
   ypos: 0
-  enemycount: 0

@@ -8,6 +8,9 @@ public class SpreaderHp : MonoBehaviour
     public Animator animator;
     public Rigidbody2D rb;
 
+    public int xpos;
+    public int ypos;
+
 
     public int maxHp=100;
     public int currentHp;
@@ -26,18 +29,6 @@ public class SpreaderHp : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if hit by gameobject(bullet) reduc by player.guntier
-        //reduc by guntier and reduce hp and hp bar
-
-
-        //if hit by bullet freeze by 2 seconds.
-        //checking with "f" key for now
-
-        //if (Input.GetKeyDown(KeyCode.F)){
-        //IEnumerator freezetime= Freezercode();
-        //StartCoroutine(freezetime);
-        //}
-        
         spreaderHpBar.SetHp(currentHp);
 
         if (currentHp <= 0)

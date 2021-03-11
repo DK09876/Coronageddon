@@ -5,9 +5,7 @@ using UnityEngine.UI;
 public class ChangeSpriteCross : MonoBehaviour {
    public GameOverScreen gameOverScreen;
    public static int checkNum;
- 
    Image sourceSprite; //will store sprite renderer
-   GameObject g;
 
    void Start()
    {
@@ -20,6 +18,7 @@ public class ChangeSpriteCross : MonoBehaviour {
       checkNum += 1;
       if (checkNum >= 5)
       {
+         checkNum = 0;
          gameOverScreen.Setup(ScoreScript.scoreNum + 2000);
       }
    }

@@ -18,5 +18,6 @@ public class GameOverScreen : MonoBehaviour
         //insert name of game screen below
         SceneManager.LoadScene("FINAL");
         ScoreScript.scoreNum = 0;
+        Time.timeScale = 1;
     }
 }
