@@ -14,7 +14,7 @@ public class ShopManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scoretxt.text= "Score:" + ScoreScript.scoreNum.ToString();
+        scoretxt.text = ScoreScript.scoreNum.ToString() + " points to spend";
         
         //IDs
         shopItems[1,1] = 1;
@@ -27,9 +27,6 @@ public class ShopManager : MonoBehaviour
         shopItems[2,2] = 100;
         shopItems[2,3] = 150;
         shopItems[2,4] = 200;
-        
-       
-
     }
 
 
@@ -42,7 +39,7 @@ public class ShopManager : MonoBehaviour
                 if (score >= 500){
             player.GetComponent<Shooting>().refreshammo();
             score -= 500;
-            scoretxt.text= "Score:" + score;
+            scoretxt.text= score + " points to spend";
             }
             return;
         }
@@ -50,17 +47,8 @@ public class ShopManager : MonoBehaviour
         if (score >= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID])
         {
             score -= shopItems[2,ButtonRef.GetComponent<ButtonInfo>().ItemID];
-            scoretxt.text= "Score:" + score;
+            scoretxt.text= score + " points to spend";
             player.GetComponent<PlayerTier>().Playertier= shopItems[1,ButtonRef.GetComponent<ButtonInfo>().ItemID];
         }
-
-        
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
