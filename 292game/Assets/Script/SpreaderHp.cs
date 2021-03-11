@@ -8,13 +8,11 @@ public class SpreaderHp : MonoBehaviour
     public Animator animator;
     public Rigidbody2D rb;
 
+    public GameObject player;
 
     public int maxHp=100;
     public int currentHp;
-    public float tier1reduc=5f;
-    public float tier2reduc=10f;
-    public float tier3reduc=20f;
-    public float tier4reduc=40f;
+  
 
     // Start is called before the first frame update
     void Start()
@@ -42,10 +40,12 @@ public class SpreaderHp : MonoBehaviour
 
         if (currentHp <= 0)
         {
-            ScoreScript.scoreNum += 10;
+            ScoreScript.scoreNum += 100;
+            EnemySpawner.enemycount-= 1;
             animator.SetBool("die", true);
             rb.constraints = RigidbodyConstraints2D.FreezePosition;
-            Destroy(this.gameObject, 1.0f);
+            this.gameObject.SetActive(false);
+            Debug.Log(EnemySpawner.enemycount);
         }
     }
 }

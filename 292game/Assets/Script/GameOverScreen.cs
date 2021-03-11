@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class GameOverScreen : MonoBehaviour
 {
     public Text pointsGO;
+    public GameObject Player;
     public void Setup(int score) 
     {
         gameObject.SetActive(true);

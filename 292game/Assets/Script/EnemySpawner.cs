@@ -7,20 +7,30 @@ public class EnemySpawner : MonoBehaviour
     public GameObject enemy;
     public int xpos;
     public int ypos;
-    public int enemycount;
+    public static int enemycount = 1;
 
     void Start()
     {
-        StartCoroutine(EnemyDrop());
+        enemy = GameObject.Find("Enemy");
+        //StartCoroutine(EnemyDrop());
     }
-
-    IEnumerator EnemyDrop(){
-        while (enemycount < 2){
+    private void Update() {
+        if (enemycount < 2){
             xpos = Random.Range (76,77);
             ypos = Random.Range (46,-62);
             Instantiate(enemy,new Vector3 (xpos,ypos,0), Quaternion.identity);
-            yield return new WaitForSeconds(10);
             enemycount += 1;
         }
     }
+
+    // IEnumerator EnemyDrop(){
+    //     Debug.Log(enemycount);
+    //     while (enemycount < 2){
+    //         xpos = Random.Range (76,77);
+    //         ypos = Random.Range (46,-62);
+    //         Instantiate(enemy,new Vector3 (xpos,ypos,0), Quaternion.identity);
+    //         enemycount += 1;
+    //         yield return new WaitForSeconds(5);      
+    //     }
+    // }
 }

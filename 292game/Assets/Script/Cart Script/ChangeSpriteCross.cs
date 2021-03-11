@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class ChangeSpriteCross : MonoBehaviour {
    public GameOverScreen gameOverScreen;
    public static int checkNum;
- 
+   public GameObject player;
    Image sourceSprite; //will store sprite renderer
    GameObject g;
 
