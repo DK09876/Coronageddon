@@ -9,11 +9,10 @@ public class ShopUI : MonoBehaviour
     public GameObject player;
     public GameObject wall;
     public GameObject Shoppingui;
-    private void Resume(){
+    public void Resume(){
         Shoppingui.SetActive(false);
         Time.timeScale=1f;
         GameIsPaused=false;
-
     }
 
     private void Pause(){
@@ -24,20 +23,25 @@ public class ShopUI : MonoBehaviour
     private bool isTouching(){
         return player.GetComponent<Collider2D>().IsTouching(wall.GetComponent<Collider2D>());
     }
-    // Update is called once per frame
     private void Update()
     {
-        if (isTouching())
-        if (Input.GetMouseButtonDown(1)){
-            if (GameIsPaused){
-                Resume();
-            }
-            else{
-                if (Input.GetMouseButtonDown(0))
-                Pause();
-            }
-        }   
+        if (isTouching() && Input.GetMouseButtonDown(0) && (GameIsPaused == false))
+        {
+            Pause();
+        }
     }
-    
- 
+
+    // private void Update()
+    // {
+    //     if (isTouching())
+    //     {
+    //         if (Input.GetMouseButtonDown(0))
+    //         {
+    //             if (GameIsPaused == false)
+    //             {
+    //                 Pause();
+    //             }
+    //         }
+    //     }
+    // }
 }

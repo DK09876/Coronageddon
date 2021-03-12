@@ -15,9 +15,8 @@ public class ShopManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
-        
-        
+        score = ScoreScript.scoreNum;
+        scoretxt.text = score.ToString() + " points to spend";
         //IDs
         shopItems[1,1] = 1;
         shopItems[1,2] = 2;
@@ -36,10 +35,7 @@ public class ShopManager : MonoBehaviour
     }
 
     public void buy(){
-        
-
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
-
             if (ButtonRef.GetComponent<ButtonInfo>().ItemID == 5){
                 if (score >= 500){
             player.GetComponent<Shooting>().refreshammo();

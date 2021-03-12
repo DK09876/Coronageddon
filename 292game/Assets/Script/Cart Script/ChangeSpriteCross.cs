@@ -14,12 +14,20 @@ public class ChangeSpriteCross : MonoBehaviour {
  
    public void change(Sprite differentSprite)
    {
-      sourceSprite.sprite = differentSprite; //sets sprite renderers sprite
-      checkNum += 1;
-      if (checkNum >= 5)
+      if (checkNum >= 4)
       {
          checkNum = 0;
          gameOverScreen.Setup(ScoreScript.scoreNum + 2000);
       }
+      else
+      {
+         checkNum++;
+         sourceSprite.sprite = differentSprite; //sets sprite renderers sprite
+      }
+   }
+   public void BtnOnClick() 
+   {
+      gameObject.GetComponent<Button>().interactable = false; 
    }
 }
+

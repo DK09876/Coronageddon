@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 public class GameOverScreen : MonoBehaviour
 {
     public Text pointsGO;
-    public GameObject Player;
     public void Setup(int score) 
     {
         gameObject.SetActive(true);
@@ -17,7 +16,7 @@ public class GameOverScreen : MonoBehaviour
     public void PlayAgain()
     {
         //insert name of game screen below
-        SceneManager.LoadScene("FINAL");
+        SceneManager.LoadScene("lynn sprint 3");
         ScoreScript.scoreNum = 0;
         Time.timeScale = 1;
     }
