@@ -7,11 +7,11 @@ public class EnemySpawner : MonoBehaviour
     public GameObject enemy;
     public int xpos;
     public int ypos;
-    public static int enemycount = 1;
+    public static int enemycount = 0;
 
     void Start()
     {
-        enemy = GameObject.Find("Enemy");
+        //enemy = GameObject.Find("Enemy");
         //StartCoroutine(EnemyDrop());
     }
     private void Update() {

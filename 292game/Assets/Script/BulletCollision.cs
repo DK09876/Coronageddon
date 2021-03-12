@@ -7,6 +7,9 @@ public class BulletCollision : MonoBehaviour
     public int damage = 15;
     public GameObject player;
     public int tier=1;
+    private void Start() {
+        player= GameObject.Find("Player");
+    }
     private void OnCollisionEnter2D(Collision2D col) {
        
         if (col.gameObject.tag=="Bullet"){
