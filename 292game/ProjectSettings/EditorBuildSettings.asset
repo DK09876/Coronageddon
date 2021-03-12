@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: 6e22a200451e76747aea10b9c52f131b
   - enabled: 1
-    path: Assets/Scenes/FINAL.unity
-    guid: 9d91dac62837f0743910ef470dbe06c2
+    path: Assets/Scenes/lynn sprint 3.unity
+    guid: fefd2cc08146c3741a6978825bf1221e
   m_configObjects: {}
