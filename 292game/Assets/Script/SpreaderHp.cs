@@ -44,8 +44,8 @@ public class SpreaderHp : MonoBehaviour
             EnemySpawner.enemycount-= 1;
             animator.SetBool("die", true);
             rb.constraints = RigidbodyConstraints2D.FreezePosition;
-            this.gameObject.SetActive(false);
-            Debug.Log(EnemySpawner.enemycount);
+            Destroy(this.gameObject);
+            
         }
     }
 }
